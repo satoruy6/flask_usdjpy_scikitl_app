@@ -1,0 +1,2 @@
+# flask_usdjpy_scikitl_app
+Flaskとgunicornを使用して、Scikit-LearnによりUSDJPYの1時間足を予測するアプリ
